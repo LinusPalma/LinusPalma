@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LinusPalma
 - 👀 I’m interested in AI, Coding, Learning, Technical Stuff
 - 🌱 I’m currently learning React + TS
-- 🧑‍💼 Controller by day, 💻 Coding by Night
 - ⚡ Fun fact: ...
 
 <!---
